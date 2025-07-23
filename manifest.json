@@ -1,0 +1,9 @@
+{
+  "name": "Smart Driving AI",
+  "short_name": "DrivingAI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#222",
+  "theme_color": "#222",
+  "icons": []
+}
